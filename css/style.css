@@ -142,6 +142,7 @@ li::before {
 	background-color: silver;
 	float:left;
 	margin-right: 13px;
+	margin-bottom: 10px;
 }
 
 #quotation{
